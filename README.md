@@ -1,4 +1,4 @@
-# Simple Encryptor/Decryptor Application
+# Encryptor/Decryptor Application
 This is a simple Python application that can encrypt and sign a plaintext/ciphertext file, then decrypt and verify it. My design ensures confidentiality by using both asymmetric and symmetric encryption, and ensures authentication and integrity by signing and verifying.
 
 Encryption: First, I used AES-GCM encryption to encrypt the plaintext. I chose this
